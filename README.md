@@ -2,7 +2,7 @@
 
 I don't have any idea what description I should provide for this repo/project BUT this is a meme XD
 
-Live site url: [https://quiel-spanish-vocab-project.netlify.app/](https://quiel-spanish-vocab-project.netlify.app/)
+Live site url: [https://quiel-motivation-meme-project.netlify.app/](https://quiel-motivation-meme-project.netlify.app/)
 
 ## Table of contents
 
