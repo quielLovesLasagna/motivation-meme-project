@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+
+body {
+	font-family: "Libre Baskerville";
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #000;
+}
+
+.container {
+	text-align: center;
+	color: #fff;
+}
+
+img {
+	display: block;
+	width: 100%;
+	border: 5px solid #fff;
+}
